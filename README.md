@@ -86,5 +86,4 @@ Feel free to open a [pull request](https://github.com/catalin-damian/fancy-hoy-d
 
 ## 🌟 Acknowledgments
 
-- Thanks to [Dioxus](https://dioxuslabs.com/) for enabling elegant Rust-based UIs.  
-- Powered by the [Dog CEO API](https://dog.ceo/dog-api/)
+- Thanks to [Dioxus](https://dioxuslabs.com/) for enabling elegant Rust-based UIs.
