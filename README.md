@@ -2,8 +2,6 @@
 
 **Fancy Hoy Dog** is a sleek, cross-platform Rust application built with [Dioxus](https://dioxuslabs.com/) that lets users browse, view, and save their favorite dog images. It supports both web and desktop targets and uses SQLite for persistence.
 
-![screenshot](https://user-images.githubusercontent.com/yourusername/screenshots/fancy-hoy-dog-preview.png) <!-- Replace with your actual screenshot URL -->
-
 ---
 
 ## 🚀 Features
