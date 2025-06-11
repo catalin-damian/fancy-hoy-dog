@@ -1,0 +1,10 @@
+/target
+**/*.rs.bk
+.DS_Store
+
+# Ignore SQLite runtime files
+hotdog.db-shm
+hotdog.db-wal
+
+# Ignore main database, runtime only
+hotdog.db
